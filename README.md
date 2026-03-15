@@ -163,9 +163,7 @@ BookStoreApi/
 - Gestion des erreurs HTTP appropriée
 - Documentation OpenAPI automatique
 
-## 🐳 Docker
 
-Le projet est configuré pour fonctionner avec Docker. Un fichier `docker-compose.dcproj` est inclus pour faciliter le déploiement en conteneur.
 
 ## 📝 Auteur
 
