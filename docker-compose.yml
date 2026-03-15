@@ -1,0 +1,6 @@
+services:
+  bookstoreapi:
+    image: ${DOCKER_REGISTRY-}bookstoreapi
+    build:
+      context: .
+      dockerfile: BookStoreApi/Dockerfile
